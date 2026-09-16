@@ -1,3 +1,7 @@
+> [!WARNING]
+> This module has been archived and won't receive any further updates, please consider migration to [Azure Verified Modules](https://aka.ms/avm).
+
+
 # terraform-azurerm-network
 
 ## Create a basic network in Azure
